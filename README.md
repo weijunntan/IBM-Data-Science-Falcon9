@@ -1,5 +1,5 @@
 # IBM Data Science Capstone Course
-This repository is the final project for IBM Data Science Course at Coursera. It  will apply your data science skills as a Data scientist for a private space launch company which is SpaceX in this project.    
+This repository is the final project for IBM Data Science Course at Coursera. It  will apply data science skills as a Data scientist for a private space launch company which is SpaceX in this project.    
 
 As a starting point of almost all data science projects, it need to collect data, as much and relevant as possible.
 
